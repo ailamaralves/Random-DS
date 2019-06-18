@@ -7,5 +7,5 @@
 	18/0114093 - Lucas Ursulino Boaventura
 
 ## Descrição
-	Grupo de Desenvolvimento de Software da Universidade de Brasília.
+	Grupo de Desenvolvimento de Software da Universidade de Brasília com finalidade de criar uma das fases para o "jogo da vida"
 
